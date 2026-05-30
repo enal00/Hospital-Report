@@ -1,0 +1,35 @@
+Import Data dari file csv
+- Patient
+- Doctors (first row as header)
+
+Membuat Table Date 
+- Transform Data
+- Copy Table Patient
+- Hapus semua kolom, kecuali Date
+- Delete duplicate
+- Add column (Year, Month, Name Of Month, First Day of Month, Day, Name of Day)
+- Save
+
+Membuat table relationship
+- One to many
+
+Menambahkan kolom di Table Patient
+- Patient Type (In/Out Patient)
+- Total Days
+- Age
+
+Membuat variable di table Patient
+- Patient Count (count row Patient)
+- Number of Day (count row Date)
+- In Patient (calculate patient type = in Patient)
+- IP% (In Patient/Patient Count)
+- DAP (Daily Average Patient , Divide (Patient count, Number of Day)
+- Bed Night (sum Total Days)
+- Average Age (average (age)
+
+Membuat Bar chart & Format (Patient by Department)
+Membuat Line Chart & Format (Patient in 2 weeks Last)
+Membuat bar chart & format (Patient Age)
+Membuat Donat Chart & Format (Patient by Gender)
+Membuat dafar Docter (img,name,patients,Bed Night)
+Memasukkan indikator2 ke dalam Card (Patient Count, Bed Night, Average Age, Number of Days, DAP, In Patient, IP%)
