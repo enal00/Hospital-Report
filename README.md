@@ -1,5 +1,8 @@
 <img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/8d76b8ec-586f-42cb-9799-f339d48e9031" />
 
+<img width="1013" height="711" alt="image" src="https://github.com/user-attachments/assets/29ed6cf0-71ee-4d0a-a0c4-54b5f55344b2" />
+
+
 🧩 1. Deskriptif — Apa yang Terjadi
 -Trend pasien menurun terlihat pada minggu ketiga Januari (sekitar tanggal 14 dan 29) dengan jumlah pasien turun ke 55–62 per hari.
 -Departemen dengan penurunan signifikan: Internal Medicine (360 pasien) dan Orthopedics (508 pasien) menunjukkan volume terendah dibanding departemen lain.
