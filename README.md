@@ -39,7 +39,7 @@ Optimalisasi Departemen:
 -Evaluasi strategi marketing agar konversi Ref.% lebih efisien.
 -Monitoring KPI: Pantau Patient_Count, PAD, dan Ref.% mingguan untuk mendeteksi ketidakseimbangan operasional lebih cepat.
 
-##💡 Kesimpulan:  
+## 💡 Kesimpulan:  
 
 Rumah sakit berada di fase transisi dengan tekanan kapasitas tinggi dan ketimpangan antar departemen. Fokus utama ke depan adalah peningkatan kapasitas, efisiensi operasional, dan layanan lansia, disertai redistribusi pasien antar dokter agar performa dan kepuasan pasien tetap optimal.
 
