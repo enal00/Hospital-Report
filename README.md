@@ -34,7 +34,7 @@
 + Physicians with high PAD will face increasing workload pressure unless patient allocation is rebalanced, potentially compromising care quality and increasing burnout risk.
 
 ## 🧠 4. Prescriptive Analytics — Actions to Be Taken
-+ Capacity & Infrastructure:
+**Capacity & Infrastructure:**
 
 - Expand inpatient beds, waiting areas, and support staff (nurses, administrative personnel, general practitioners) to reduce operational bottlenecks.
 
@@ -44,7 +44,7 @@
 
 - Orthopedics: Increase promotion of post-surgical and rehabilitation services to recover volume.
 
-+ Geriatric Program:
+**Geriatric Program:**
 
 - Launch a Senior Health Program — integrating routine screenings, physiotherapy, and health education — in partnership with local public facilities.
 
