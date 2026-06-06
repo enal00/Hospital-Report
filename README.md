@@ -2,46 +2,62 @@
 
 <img width="1013" height="711" alt="image" src="https://github.com/user-attachments/assets/29ed6cf0-71ee-4d0a-a0c4-54b5f55344b2" />
 
+## 🧩 1. Descriptive Analytics — What Happened
++ A declining patient volume trend was observed during the third week of January (around the 14th and 29th), with daily patient counts dropping to 55–62.
 
-## 🧩 1. Deskriptif — Apa yang Terjadi
++ Departments with significant volume decline: Internal Medicine (360 patients) and Orthopedics (508 patients) recorded the lowest throughput compared to other departments.
 
--Trend pasien menurun terlihat pada minggu ketiga Januari (sekitar tanggal 14 dan 29) dengan jumlah pasien turun ke 55–62 per hari.
--Departemen dengan penurunan signifikan: Internal Medicine (360 pasien) dan Orthopedics (508 pasien) menunjukkan volume terendah dibanding departemen lain.
--Demografi pasien: didominasi oleh kelompok usia 50–70 tahun (1.133 pasien), menggambarkan populasi lansia yang tinggi di sekitar rumah sakit.
--Kapasitas operasional: rata-rata 68 pasien per hari, mendekati batas kapasitas rumah sakit, menyebabkan antrean panjang dan keluhan pelayanan.
--Performa dokter: beberapa dokter seperti Donald Roundup dan Barank Obama memiliki PAD tinggi (3.11–3.58) dan Ref.% rendah (13–14%), menandakan efisiensi tinggi tanpa banyak dukungan marketing. Sebaliknya, Aishwarya ROW dan Alia BAHTTEXT memiliki PAD rendah (<1) dengan Ref.% tinggi, menunjukkan ketergantungan pada promosi.
++ Patient demographics: dominated by the 50–70 age group (1,133 patients), indicating a high geriatric population in the hospital’s catchment area.
 
-## 🔍 2. Diagnostik — Mengapa Terjadi
++ Operational capacity: average daily load of 68 patients, nearing maximum capacity utilization, leading to prolonged queue times and service complaints.
 
--Penurunan tren pasien kemungkinan disebabkan oleh penataan ulang struktur organisasi dan renovasi sarana prasarana (sarpras) di beberapa departemen seperti Internal Medicine dan Orthopedics.
--Internal Medicine rendah bisa karena pengalihan pasien ke General Physician untuk kasus ringan, atau keterbatasan fasilitas diagnostik yang sedang dalam pengadaan.
--Antrean panjang dan komplain pelayanan muncul karena rasio pasien terhadap kapasitas ruang dan tenaga medis tidak seimbang.
--Dominasi pasien lansia menunjukkan kurangnya fasilitas publik pendukung lansia di sekitar area rumah sakit, sehingga mereka lebih bergantung pada layanan medis rutin.
--Perbedaan performa dokter mencerminkan distribusi pasien yang tidak merata dan strategi marketing yang belum optimal dalam menyeimbangkan beban kerja antar dokter.
++ Physician performance metrics: high-performing physicians such as Donald Roundup and Barank Obama demonstrated high PAD (Patient Attribution Density) of 3.11–3.58 and low Ref.% (Referral Dependency Ratio) of 13–14%, indicating operational efficiency with minimal marketing support. Conversely, Aishwarya ROW and Alia BAHTTEXT showed low PAD (<1) with high Ref.%, suggesting strong reliance on promotional channels for patient acquisition.
 
-## 📈 3. Prediktif — Apa yang Akan Terjadi
+## 🔍 2. Diagnostic Analytics — Why It Happened
++ The downward patient trend is likely attributable to organizational restructuring and infrastructure renovation (SARPRAS) projects in departments such as Internal Medicine and Orthopedics.
 
--Jika tren penurunan di Internal Medicine dan Orthopedics berlanjut, total pasien bulanan bisa turun 5–8% dalam dua bulan ke depan.
--Tanpa penambahan kapasitas fisik dan SDM, waktu tunggu pasien diprediksi meningkat hingga 20–25%, menurunkan kepuasan layanan.
--Kelompok lansia akan terus meningkat sebagai segmen dominan, sehingga permintaan layanan geriatrik dan rehabilitasi akan naik signifikan.
--Dokter dengan PAD tinggi akan semakin terbebani jika distribusi pasien tidak diatur ulang, berpotensi menurunkan kualitas pelayanan.
++ Low volume in Internal Medicine may stem from patient redirection to General Physicians for low-acuity cases, or diagnostic capacity constraints pending equipment procurement.
 
-## 🧠 4. Preskriptif — Tindakan yang Harus Diambil
++ Extended wait times and service complaints are driven by an imbalanced patient-to-capacity ratio, including insufficient space and clinical support staff.
 
--Kapasitas & Infrastruktur: Tambah ruang rawat, ruang tunggu, dan tenaga medis pendukung (perawat, admin, dokter umum).
-Optimalisasi Departemen:
--Internal Medicine: percepat pengadaan alat diagnostik dan selesaikan renovasi agar volume pasien kembali normal.
--Orthopedics: tingkatkan promosi layanan pasca operasi dan rehabilitasi.
--Program Lansia: Bentuk Senior Health Program — pemeriksaan rutin, fisioterapi, dan edukasi kesehatan lansia bekerja sama dengan fasilitas publik sekitar.
++ The predominance of elderly patients suggests a lack of public geriatric support infrastructure in the surrounding area, making the community heavily reliant on routine hospital-based care.
 
-**Distribusi Pasien & Marketing:**
--Gunakan data-driven scheduling untuk mendistribusikan pasien antar dokter agar PAD lebih merata.
--Evaluasi strategi marketing agar konversi Ref.% lebih efisien.
--Monitoring KPI: Pantau Patient_Count, PAD, dan Ref.% mingguan untuk mendeteksi ketidakseimbangan operasional lebih cepat.
++ Variation in physician performance reflects uneven patient distribution and suboptimal marketing alignment, indicating a need for load-balancing interventions.
 
-## 💡 Kesimpulan:  
+## 📈 3. Predictive Analytics — What Will Happen
++ If the current downtrend in Internal Medicine and Orthopedics persists, total monthly patient volume is projected to decline by an additional 5–8% over the next two months.
 
-Rumah sakit berada di fase transisi dengan tekanan kapasitas tinggi dan ketimpangan antar departemen. Fokus utama ke depan adalah peningkatan kapasitas, efisiensi operasional, dan layanan lansia, disertai redistribusi pasien antar dokter agar performa dan kepuasan pasien tetap optimal.
++ Without expansion in physical capacity and workforce, patient wait times are forecasted to increase by 20–25%, directly degrading patient satisfaction scores.
+
++ The geriatric cohort will continue to dominate demand, driving a significant rise in geriatric and rehabilitation service utilization.
+
++ Physicians with high PAD will face increasing workload pressure unless patient allocation is rebalanced, potentially compromising care quality and increasing burnout risk.
+
+## 🧠 4. Prescriptive Analytics — Actions to Be Taken
++ Capacity & Infrastructure:
+
+- Expand inpatient beds, waiting areas, and support staff (nurses, administrative personnel, general practitioners) to reduce operational bottlenecks.
+
+- Department-Level Optimization:
+
+- Internal Medicine: Expedite diagnostic equipment procurement and finalize renovations to restore baseline patient throughput.
+
+- Orthopedics: Increase promotion of post-surgical and rehabilitation services to recover volume.
+
++ Geriatric Program:
+
+- Launch a Senior Health Program — integrating routine screenings, physiotherapy, and health education — in partnership with local public facilities.
+
+- Patient Distribution & Marketing Strategy:
+
+- Implement data-driven scheduling algorithms to redistribute patient loads across physicians, reducing variance in PAD.
+
+- Audit marketing efficiency to improve conversion rates relative to Ref.% , minimizing reliance on low-yield promotions.
+
+- Establish weekly KPI monitoring (Patient_Count, PAD, Ref.%) to enable early detection of operational imbalances and trigger corrective action.
+
+## 💡 Conclusion
+The hospital is in a transitional operational phase characterized by high capacity pressure and inter-departmental imbalance. Strategic priorities moving forward are: capacity expansion, operational efficiency gains, and geriatric-focused service integration, supported by patient redistribution protocols to ensure balanced physician performance and sustained patient satisfaction.
 
 
 
